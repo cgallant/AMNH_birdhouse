@@ -2335,11 +2335,6 @@ This is just like the LOCK variant in that the holes are staggared by 5 mil, but
 <wire x1="5.08" y1="24.13" x2="0" y2="24.13" width="0.1524" layer="91"/>
 <label x="0" y="24.13" size="1.778" layer="95"/>
 </segment>
-<segment>
-<pinref part="J4" gate="G$1" pin="4"/>
-<wire x1="-68.58" y1="68.58" x2="-76.2" y2="68.58" width="0.1524" layer="91"/>
-<label x="-76.2" y="68.58" size="1.778" layer="95"/>
-</segment>
 </net>
 <net name="5V" class="0">
 <segment>
