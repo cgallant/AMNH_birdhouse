@@ -595,28 +595,28 @@ grid 5.08 mm</description>
 <element name="D7" library="SparkFun-LED" package="LED_5MM" value="" x="11.43" y="20.32" rot="MR0"/>
 <element name="D8" library="SparkFun-LED" package="LED_5MM" value="" x="24.13" y="20.32" rot="MR0"/>
 <element name="D9" library="SparkFun-LED" package="LED_5MM" value="" x="36.83" y="20.32" rot="MR0"/>
-<element name="R3" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="27Ω" x="17.78" y="12.7" rot="R180">
+<element name="R3" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="22Ω" x="17.78" y="12.7" rot="R180">
 <attribute name="PROD_ID" value="RES-12180" x="17.78" y="12.7" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R5" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="10K Ω" x="81.28" y="12.7" rot="R180">
+<element name="R5" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="1.5K Ω" x="81.28" y="12.7" rot="R180">
 <attribute name="PROD_ID" value="RES-12180" x="81.28" y="12.7" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="T1" library="adafruit" package="TO92-EBC-OVAL" value="2N2222" x="3.81" y="12.7" rot="R90"/>
 <element name="D4" library="SparkFun-LED" package="LED_5MM" value="" x="49.53" y="20.32" rot="MR0"/>
 <element name="D5" library="SparkFun-LED" package="LED_5MM" value="" x="62.23" y="20.32" rot="MR0"/>
 <element name="D6" library="SparkFun-LED" package="LED_5MM" value="" x="74.93" y="20.32" rot="MR0"/>
-<element name="R2" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="27Ω" x="55.88" y="12.7" rot="R180">
+<element name="R2" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="22Ω" x="55.88" y="12.7" rot="R180">
 <attribute name="PROD_ID" value="RES-12180" x="55.88" y="69.85" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="D10" library="SparkFun-LED" package="LED_5MM" value="" x="74.93" y="5.08" rot="MR0"/>
 <element name="D11" library="SparkFun-LED" package="LED_5MM" value="" x="62.23" y="5.08" rot="MR0"/>
 <element name="D12" library="SparkFun-LED" package="LED_5MM" value="" x="49.53" y="5.08" rot="MR0"/>
-<element name="R4" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="27Ω" x="43.18" y="12.7" rot="R180">
+<element name="R4" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="22Ω" x="43.18" y="12.7" rot="R180">
 <attribute name="PROD_ID" value="RES-12180" x="43.18" y="69.85" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="D1" library="SparkFun-LED" package="LED_5MM" value="" x="11.43" y="5.08" rot="MR0"/>
 <element name="D2" library="SparkFun-LED" package="LED_5MM" value="" x="24.13" y="5.08" rot="MR0"/>
-<element name="R1" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="27Ω" x="30.48" y="12.7" rot="R180">
+<element name="R1" library="SparkFun-Resistors" package="AXIAL-0.3-KIT" value="22Ω" x="30.48" y="12.7" rot="R180">
 <attribute name="PROD_ID" value="RES-12180" x="30.48" y="69.85" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="DHT22" library="SparkFun-Connectors" package="1X04_LONGPADS" value="" x="90.17" y="5.08" rot="MR0">

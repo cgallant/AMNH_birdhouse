@@ -3174,19 +3174,19 @@ Silk outline shows header location.
 <part name="D8" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D9" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="T1" library="adafruit" deviceset="2N2222" device=""/>
-<part name="R3" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="27Ω"/>
-<part name="R5" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="10K Ω"/>
+<part name="R3" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="22Ω"/>
+<part name="R5" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="1.5K Ω"/>
 <part name="D4" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D5" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D6" library="SparkFun-LED" deviceset="LED" device="5MM"/>
-<part name="R2" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="27Ω"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="22Ω"/>
 <part name="D10" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D11" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D12" library="SparkFun-LED" deviceset="LED" device="5MM"/>
-<part name="R4" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="27Ω"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="22Ω"/>
 <part name="D1" library="SparkFun-LED" deviceset="LED" device="5MM"/>
 <part name="D2" library="SparkFun-LED" deviceset="LED" device="5MM"/>
-<part name="R1" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="27Ω"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="22Ω"/>
 <part name="DHT22" library="SparkFun-Connectors" deviceset="CONN_04" device="LONGPADS"/>
 <part name="R6" library="SparkFun-Resistors" deviceset="10OHM" device="-HORIZ_KIT-1/4W-1%" value="10K Ω"/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
